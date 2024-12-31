@@ -2,6 +2,7 @@
 
 This project aims to analyze and predict electricity consumption patterns across diverse non-residential buildings using a robust dataset derived from the Building Data Genome Project 2. By leveraging advanced predictive modeling techniques, the project delivers actionable insights that support energy optimization, cost reduction, and sustainability efforts.
 
+
 **Dataset Description**
 
 Dataset Source: Building Data Genome Project 2
